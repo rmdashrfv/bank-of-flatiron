@@ -83,6 +83,37 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "id": 13
+    },
+    {
+      "date": "",
+      "description": "Test description",
+      "category": "tes",
+      "amount": "100",
+      "id": 14
+    },
+    {
+      "date": "1200-12-09",
+      "description": "Support local restaurants with Apple Pay",
+      "category": "Brooklyn Mirage",
+      "amount": "1000",
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "new syntax whodis",
+      "category": "Food 2",
+      "amount": "5.75",
+      "id": 16
+    },
+    {
+      "date": "2033-10-23",
+      "description": "Test 100000000",
+      "category": "Super DMZ",
+      "amount": "1200",
+      "id": 17
     }
   ]
 }
