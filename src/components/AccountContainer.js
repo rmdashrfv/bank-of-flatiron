@@ -22,7 +22,7 @@ function AccountContainer() {
     <div>
       <Search transactions={transactions} setTransactions={setTransactions} allTrans={allTrans} />
       <AddTransactionForm setTransactions={setTransactions} />
-      <TransactionsList transactions={transactions}  />
+      <TransactionsList transactions={transactions} setTransactions={setTransactions}  />
     </div>
   );
 }
